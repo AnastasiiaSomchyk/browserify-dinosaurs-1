@@ -1,5 +1,3 @@
-'use strict';
-
 const dinoCards = document.getElementsByClassName('dino');
 
 const showHighlight = (e) => {
